@@ -1,8 +1,0 @@
-POST http://127.0.0.1:5000/api/users
-Content-Type: application/json
-
-{
-  "name": "มนัส",
-  "email": "manas@example.com",
-  "phone": "081-123-4567"
-}
